@@ -1,0 +1,13 @@
+.payment{
+    display: flex;
+    align-items: center;
+    gap:0.5rem
+}
+.outerDiv{
+    display: flex;
+    flex-direction: column;
+}
+.paymentBox{
+    display: flex;
+    gap:0.5rem
+}
